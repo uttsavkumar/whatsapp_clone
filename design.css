@@ -1,0 +1,294 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.nav {
+  width: 100%;
+  height: 100px;
+  background-color: #1ebea5;
+  position: sticky;
+  top: 0;
+}
+div img {
+  width: 150px;
+  max-width: 30%;
+  max-width: 50%;
+  margin-top: 29px;
+  margin-left: 100px;
+}
+div li {
+  display: inline;
+}
+div ul {
+  float: right;
+  margin-top: 40px;
+  margin-right: 150px;
+  word-spacing: 48px;
+}
+div li a {
+  text-decoration: none;
+  color: white;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: Helvetica, Arial, sans-serif;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+div li a:hover {
+  text-decoration: none;
+  color: rgb(226, 226, 226);
+  font-size: 13px;
+  font-weight: 500;
+  font-family: Helvetica, Arial, sans-serif;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+section {
+  width: 100%;
+  height: 750px;
+}
+.middle img {
+  width: 370px;
+  float: right;
+  margin-right: 225px;
+  margin-top: 50px;
+}
+.text {
+  width: 502px;
+}
+span p {
+  color: rgb(52, 52, 52);
+  font-size: 35px;
+  font-weight: lighter;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+#heading {
+  float: right;
+  margin-top: 200px;
+  margin-right: 35px;
+}
+#middletext {
+  font-size: 17px;
+  float: left;
+  margin-top: -370px;
+  margin-left: 242px;
+  color: rgb(105, 104, 104);
+}
+#down {
+  font-size: 12px;
+  float: left;
+  margin-top: -311px;
+  margin-left: 242px;
+  color: rgb(187, 187, 187);
+}
+.store {
+  float: left;
+  margin-top: -300px;
+  margin-left: 250px;
+  display: block;
+}
+.store ul{
+    margin-right: -46px;
+}
+
+  
+
+.store li img {
+  width: 15px;
+  margin-left: 74px;
+  float: right;
+  margin-top: -20px;
+}
+.store li p {
+  max-width: 70px;
+  color: #1ebea5;
+  text-align: top;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+.store #iphone{
+    margin-top: 40px;
+    float: right;
+}
+.store #windows{
+    margin-top: 120px;
+    float: right;
+}
+.box {
+  width: 100%;
+  height: 750px;
+}
+.leftsection {
+  float: left;
+  width: 46%;
+  height: 750px;
+  margin-top: 10pxx;
+  background-color: #d0e9ea;
+  text-align: center;
+  padding: 10px 20px;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.leftsection h1 {
+  margin-top: 10px;
+  color: rgb(133, 133, 133);
+  margin-bottom: 30px;
+  margin-top: 80px;
+  font-weight: lighter;
+  font-size: x-large;
+  color: black;
+}
+.centertext a{
+    text-decoration: none;
+    color:  #39b3ed;
+}
+.centertext {
+  padding: 0px 23px;
+  color: rgb(69, 69, 69);
+}
+#downimg {
+  width: 364px;
+  margin-left: -21px;
+  max-width: 55%;
+  margin-top: 82px;
+}
+
+.rightsection {
+  float: right;
+  width: 46%;
+  height: 750px;
+  margin-top: 10pxx;
+  background-color: #edf8f5;
+  text-align: center;
+  padding: 10px 20px;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.rightsection h1 {
+  margin-top: 10px;
+  color: rgb(133, 133, 133);
+  margin-bottom: 30px;
+  margin-top: 462px;
+  font-weight: lighter;
+  font-size: x-large;
+  color: black;
+}
+.anothercentertext {
+  margin-top: -13px;
+}
+
+#middletxxt {
+  float: right;
+  margin-top: 444px;
+  margin-right: 212px;
+  font-size: 12px;
+  color: rgb(69, 69, 69);
+}
+.explore {
+  width: 100%;
+  height: 300px;
+  background-color: rgb(255, 255, 255);
+}
+.exploremore {
+  width: 225px;
+  height: 57px;
+  align-items: center;
+  margin: auto;
+  margin-top: 134px;
+  margin-left: 560px;
+  border: 2px solid #77d7c8;
+  border-radius: 25px;
+  font-size: 20px;
+  color:  #1cb39b;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.exploremore:hover {
+  width: 225px;
+  height: 57px;
+  align-items: center;
+  margin: auto;
+  margin-top: 134px;
+  margin-left: 560px;
+  border: 2px solid #77d7c8;
+  border-radius: 25px;
+  background: linear-gradient(rgb(236, 251, 255), white);
+  font-size: 20px;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.bottomscreen {
+  width: 100%;
+  height: 380px;
+  background-color: rgba(39, 52, 67, 1);
+}
+.bottomscreen ul {
+  margin-left: 145px;
+  float: left;
+  margin-top: 40px;
+  word-spacing: 166px;
+}
+.bottomscreen ul li {
+  font-size: small;
+  color: rgb(193, 191, 191);
+  font-weight: bolder;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.belowcontent ul {
+  word-spacing: normal;
+}
+.belowcontent ul li {
+  display: block;
+  line-height: 25px;
+}
+.belowcontent li a {
+  color: rgb(255, 255, 255);
+  font-weight: lighter;
+}
+.belowcontent li a:hover {
+  color: rgb(255, 255, 255);
+  font-weight: lighter;
+  text-decoration: underline;
+}
+.leftcenter ul {
+  margin-left: 6px;
+}
+
+.rightcenter ul {
+  margin-left: -17px;
+}
+.left ul {
+  margin-left: 51px;
+}
+.ending {
+  width: 100%;
+  background-color: #232f3c;
+  height: 80px;
+  float: left;
+  margin-top: 30px;
+}
+.ending p {
+  font-size: small;
+  color: rgb(115, 115, 115);
+  font-weight: bolder;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin-top: 30px;
+  margin-left: 60px;
+  
+}
+.ending a{
+    font-size:normal;
+  color: rgb(255, 255, 255);
+  font-weight: lighter;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-decoration: none;
+  margin-top: -21px;
+  float: left;
+  margin-left: 370px;
+}
